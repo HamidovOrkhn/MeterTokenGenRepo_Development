@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Reference Include="StsTokenGenerator">
-      <HintPath>..\..\..\..\Downloads\StsTokenGenerator.dll</HintPath>
+      <HintPath>..\..\..\StsTokenGenerator.dll</HintPath>
     </Reference>
   </ItemGroup>
 
